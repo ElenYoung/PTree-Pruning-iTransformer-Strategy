@@ -63,10 +63,13 @@ If we delay position establishment by one day, we end up with two significantly 
 
 ![before_ptree_1](images/before_ptree_1.png)
 
+The result below is caused by delaying position establishment by one day.
+
 ![before_ptree_2](images/before_ptree_2.png)
 
 
-### Performance Metrics (Out-of-Sample)
+
+### Performance after Data Pruning (Out-of-Sample)
 - **Timeframe**: 2023-11-08 to 2025-10-20
 - **Universe**: A-share ETF Daily Data
 - **Transaction Costs**: 10 bps (one-way)
